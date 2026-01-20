@@ -3,7 +3,7 @@ This project focuses on analyzing urban traffic and mobility data to understand 
 
 Tools & Technologies:
 
-Python (Pandas, NumPy, Matplotlib/Seaborn)
+Python (Pandas, NumPy, Seaborn)
 Microsoft Excel
 Jupyter Notebook
 
