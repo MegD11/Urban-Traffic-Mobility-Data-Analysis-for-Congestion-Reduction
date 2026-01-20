@@ -20,3 +20,7 @@ Tasks Performed:
 - Analyzed speed variations to identify potential congestion periods.
 - Performed exploratory data analysis (EDA).
 - Visualized average speed trends over time.
+
+<img width="1536" height="1024" alt="Power BI Urban Traffic Data Image" src="https://github.com/user-attachments/assets/4f169a07-d9b5-4e64-9aef-e3d70bcb3a82" />
+
+
